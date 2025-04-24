@@ -75,30 +75,6 @@ function App() {
         </div>
       </section>
 
-      {/* My Work Section */}
-     {/* My Work Section */}
-<section className="portfolio bordered">
-  <div className="projects">
-    <div className="project">
-      <img src={ProjectImage1} alt="Project 1" className="project-image" />
-      <div className="project-title">Portfolio Website</div>
-    </div>
-    <div className="project">
-      <img src={ProjectImage2} alt="Project 2" className="project-image" />
-      <div className="project-title">E-commerce Platform</div>
-    </div>
-    <div className="project">
-      <img src={ProjectImage3} alt="Project 3" className="project-image" />
-      <div className="project-title">Blog CMS</div>
-    </div>
-    <div className="project">
-      <img src={ProjectImage4} alt="Project 4" className="project-image" />
-      <div className="project-title">Social Media App</div>
-    </div>
-  </div>
-</section>
-
-
       {/* Contact Section */}
       <section className="contact bordered">
         <div className="left bordered">
